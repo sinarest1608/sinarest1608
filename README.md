@@ -5,9 +5,9 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=sinarest1608" alt="sinarest1608" /></a> </p>
 
-- 🔭 I’m currently working on **DSA with Pepcoding**
+- 🔭 I’m currently working on **ReactJs**
 
-- 🌱 I’m currently learning **iOS Development using Swift**
+- 🌱 I’m currently learning **GoLang**
 
 - 👯 I’m looking to collaborate on **Flutter Development**
 
